@@ -26,7 +26,7 @@
                 {
                     "type": "NumberSpinner",
                     "name": "ModuleLength",
-                    "caption": "Modullänge",
+                    "caption": "Modullï¿½nge",
                     "minimum": 0,
                     "suffix": "mm"
                 }
