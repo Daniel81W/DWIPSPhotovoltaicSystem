@@ -1,0 +1,12 @@
+{
+    "id": "{8310F534-0512-5151-43A0-F38065C2E2EE}",
+    "name": "DWIPSPhotovoltaicSystem",
+    "author": "Daniel Weber",
+    "url": "https://github.com/Daniel81W/DWIPSPhotovoltaicSystem.git",
+    "compatibility": {
+        "version": "5.4"
+    },
+    "version": "0.1.9",
+    "build": 0,
+    "date": 0
+}

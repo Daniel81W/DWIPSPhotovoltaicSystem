@@ -1,0 +1,38 @@
+{
+    "elements": [
+        {
+            "type": "ExpansionPanel",
+            "caption": "PV-Module",
+            "items": [
+                {
+                    "type": "NumberSpinner",
+                    "name": "ModuleCount",
+                    "caption": "Anzahl PV-Module",
+                    "minimum": 1
+                },
+                {
+                    "type": "NumberSpinner",
+                    "name": "ModulePower",
+                    "caption": "Nennleistung pro Modul",
+                    "minimum": 0
+                },
+                {
+                    "type": "NumberSpinner",
+                    "name": "ModuleWidth",
+                    "caption": "Modulbreite",
+                    "minimum": 0,
+                    "suffix": "mm"
+                },
+                {
+                    "type": "NumberSpinner",
+                    "name": "ModuleLength",
+                    "caption": "Modullänge",
+                    "minimum": 0,
+                    "suffix": "mm"
+                }
+            ]
+        }
+    ],
+    "actions": [],
+    "status": []
+}
